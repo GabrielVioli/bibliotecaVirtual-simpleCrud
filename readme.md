@@ -1,7 +1,6 @@
 # Biblioteca Virtual
 
 Um sistema simples de gerenciamento de livros, desenvolvido em **PHP** com **MySQL**, que permite **adicionar, editar, listar e excluir** livros.
-O projeto utiliza boas práticas de organização, separando o código em pastas (`public/`, `src/`, `database/`) e um arquivo `.gitignore` para proteger credenciais.
 
 ---
 
